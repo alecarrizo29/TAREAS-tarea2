@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 20px;
+
+}
+
+.container{
+    background-image: url(./design1_image1.jpg);
+    height: 400px;
+
+}
+
+
+a{
+    
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+.main{
+    position: relative;
+}
+
+nav{
+    display: inline-block;
+
+}
+
+.eventos{
+    display: inline-block;
+   
+
+}
+
+h1{
+    font-size: 50px;
+    text-decoration: none;
+
+}
+
+.barra-eventos{
+    background-color: black;
+
+}
+
+h2{
+    color: white;
+    text-align: center;
+
+}
+
+#logo{
+    background-color: white;
+    position: absolute;
+    right: 30px;
+    top: 450px;
+}

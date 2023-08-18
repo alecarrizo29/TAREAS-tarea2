@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 20px;
+
+}
+
+.container{
+    background-image: url(./design1_image1.jpg);
+    height: 400px;
+
+}
+
+.up-events{
+    padding: 0;
+}
+
+nav{
+    display: inline;
+    position: absolute;
+    right: 20px;
+    top: 40px;
+}
+
+
+.eventos{
+    position: absolute;
+    left: 200px;
+    
+
+}
+
+h1{
+    font-size: 50px;
+    text-decoration: none;
+
+}
+
+.barra-eventos{
+    background-color: black;
+
+}
+
+h2{
+    color: white;
+    text-align: center;
+
+}
+
+#logo{
+    background-color: white;
+    position: absolute;
+    left: 20px;
+    top: 600px;
+
+}
+
+
+a {
+    width: 50px;
+    color: white;
+    border:1px solid black;
+    background-color: blue;
+    text-decoration: none;
+    
+
+}
+
+a:hover{
+    background-color: green;
+}
+
